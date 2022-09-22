@@ -1,0 +1,402 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Materials",
+            "icon": "leather",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "",
+            "page": "booking"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "e051a566-cb76-4388-99f1-aecddfe86e4b": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Extras",
+            "icon": "clipboard",
+            "content": "<p>hello: 123<\/p><p>hell2: 231<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "collapsible-row-3",
+        "share",
+        "buy_buttons",
+        "e051a566-cb76-4388-99f1-aecddfe86e4b"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "medium",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hassle-Free Exchanges",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16634762658d307d9b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1663476264aa12449c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.extra1_title.value }}",
+            "icon": "clipboard",
+            "row_content": "{{ product.metafields.custom.extra1_description}}",
+            "page": ""
+          }
+        },
+        "1663476264aa12449c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.extra2_title.value }}",
+            "icon": "clipboard",
+            "row_content": "{{product.metafields.custom.extra2_description}}",
+            "page": ""
+          }
+        },
+        "1663476264aa12449c-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.extra3_title.value }}",
+            "icon": "clipboard",
+            "row_content": "{{product.metafields.custom.extra3_description}}",
+            "page": ""
+          }
+        },
+        "b72104ee-d53a-4cf8-a76e-d7d1cdea2716": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.extra4_title.value }}",
+            "icon": "clipboard",
+            "row_content": "{{product.metafields.custom.extra4_description}}",
+            "page": ""
+          }
+        },
+        "a22112e9-4b02-48ec-85bf-828a39664bf0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "{{ product.metafields.custom.extra5_title.value }}",
+            "icon": "clipboard",
+            "row_content": "{{product.metafields.custom.extra5_description}}",
+            "page": ""
+          }
+        },
+        "49750941-4266-44f6-9422-a5ac533507b6": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "{{product.metafields.custom.sorry_text}}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663476264aa12449c-0",
+        "1663476264aa12449c-1",
+        "1663476264aa12449c-3",
+        "b72104ee-d53a-4cf8-a76e-d7d1cdea2716",
+        "a22112e9-4b02-48ec-85bf-828a39664bf0",
+        "49750941-4266-44f6-9422-a5ac533507b6"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "EXTRAS",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "small",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166382435905d091df": {
+      "type": "rich-text",
+      "blocks": {
+        "166382435792106b78-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p><strong>Sorry, we don’t supply European 11 pin round plug & LED support adaptor for European Cars<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "166382435792106b78-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>{{ product.metafields.custom.sorry_text | metafield_tag }}<\/strong><\/p>"
+          }
+        },
+        "166382435792106b78-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "166382435792106b78-0",
+        "166382435792106b78-1",
+        "166382435792106b78-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "166347887767202e79": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1663481055ca398e88": {
+      "type": "apps",
+      "blocks": {
+        "d3d83268-fdb0-4131-8087-7734c1527378": {
+          "type": "shopify:\/\/apps\/powerful-contact-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\">{formbuilder:OTE2NDM=}<\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "d3d83268-fdb0-4131-8087-7734c1527378"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-with-text",
+    "multicolumn",
+    "product-recommendations",
+    "16634762658d307d9b",
+    "166382435905d091df",
+    "166347887767202e79",
+    "1663481055ca398e88"
+  ]
+}

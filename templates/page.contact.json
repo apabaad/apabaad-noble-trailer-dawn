@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16632474422d6ed38b": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1663247442228eb959-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1663247442228eb959-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1663247442228eb959-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663247442228eb959-0",
+        "1663247442228eb959-1",
+        "1663247442228eb959-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "166324746446c2fcd9": {
+      "type": "apps",
+      "blocks": {
+        "f4c8643d-e725-4af7-8008-29f8b31345c4": {
+          "type": "shopify:\/\/apps\/powerful-contact-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "{formbuilder:OTE2NDM=}"
+          }
+        }
+      },
+      "block_order": [
+        "f4c8643d-e725-4af7-8008-29f8b31345c4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "166325234582b85346": {
+      "type": "rich-text",
+      "blocks": {
+        "1663252345aa6506ea-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1663252345aa6506ea-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1663252345aa6506ea-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663252345aa6506ea-0",
+        "1663252345aa6506ea-1",
+        "1663252345aa6506ea-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "16632474422d6ed38b",
+    "166324746446c2fcd9",
+    "166325234582b85346"
+  ]
+}

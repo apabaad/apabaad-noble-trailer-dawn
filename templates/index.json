@@ -1,0 +1,476 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "NOBLE TRAILER",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "AFFORDABLE, RELIABLE & BEST QUALITY TRAILERS FOR RENT AT THE BEST PRICE",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/beach-tractor-trailer.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>TRAILERS FOR HIRE<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Noble Trailer is one of Melbourne’s leading suppliers of high quality trailers for hire. With our 8 years of expertise in the trailer industry, we provide our trailers for rent with assurance of durability and reliability.<\/p><p>We offer a large variety of sizes and trailer types, so we’re sure to have the right trailer for you.<\/p><p>We also have long and short term trailers for rent, so whether it’s for a day or a week, we’ve got you covered.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "1663249011f6f18890": {
+      "type": "contact-buttons",
+      "blocks": {
+        "918acce5-70f3-4e4c-9dd6-1dd1490a3f34": {
+          "type": "first-section",
+          "settings": {
+            "view-btn-link": "tel:(03) 8712 1425",
+            "view-btn": "Call Now",
+            "contact-icon": "<i style=\"font-size:16px;\" class=\"fa-solid fa-phone\"><\/i>"
+          }
+        },
+        "b0627af6-60bc-42df-bfbd-05153192c9c7": {
+          "type": "first-section",
+          "settings": {
+            "view-btn-link": "shopify:\/\/products\/box-trailer",
+            "view-btn": "Book Now",
+            "contact-icon": "<i style=\"font-size:16px;\" class=\"fa-solid fa-calendar-check\"><\/i>"
+          }
+        }
+      },
+      "block_order": [
+        "918acce5-70f3-4e4c-9dd6-1dd1490a3f34",
+        "b0627af6-60bc-42df-bfbd-05153192c9c7"
+      ],
+      "settings": {
+      }
+    },
+    "16631595791a56a5d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "16631595791eac7221-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hydraulic Tipper",
+            "heading_size": "h1"
+          }
+        },
+        "16631595791eac7221-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hire our high quality and affordable Hydraulic Tripper.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16631595791eac7221-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Now",
+            "button_link": "shopify:\/\/products\/hydraulic-tipper-trailer"
+          }
+        }
+      },
+      "block_order": [
+        "16631595791eac7221-0",
+        "16631595791eac7221-1",
+        "16631595791eac7221-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "1663160095da3a1184": {
+      "type": "image-with-text",
+      "blocks": {
+        "16631600954cb86220-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tri-Axle Trailers",
+            "heading_size": "h1"
+          }
+        },
+        "16631600954cb86220-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hire our high quality and affordable Tri-Axle Trailers.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16631600954cb86220-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": "shopify:\/\/products\/tri-axle-trailers"
+          }
+        }
+      },
+      "block_order": [
+        "16631600954cb86220-0",
+        "16631600954cb86220-1",
+        "16631600954cb86220-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tri-axle-trailers.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "166315558862199974": {
+      "type": "rich-text",
+      "blocks": {
+        "16631555887196b442-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>CHOOSE FROM OUR WIDE VAIRIETY OF TRAILERS<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16631555887196b442-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "1663159439cf245384": {
+      "type": "rich-text",
+      "blocks": {
+        "16631594390a7cd92e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>WHY NOBLE TRAILER?<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16631594390a7cd92e-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hand.webp",
+            "title": "Custom made high quality Tandem Trailers",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/devices.webp",
+            "title": "Available both online or on Call",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fast.webp",
+            "title": "Quick Service",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2a784074-d386-4132-9964-4eac2747dc81": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trailer.webp",
+            "title": "Trailer hire -Long & Short Term",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ff9af306-26d6-4f97-8411-959274271637": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/best-price.webp",
+            "title": "Guaranteed Best Price",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "386ad1e9-2229-436b-bdeb-eb0937feb0bc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/customize.webp",
+            "title": "Regular Maintenance and Services",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "2a784074-d386-4132-9964-4eac2747dc81",
+        "ff9af306-26d6-4f97-8411-959274271637",
+        "386ad1e9-2229-436b-bdeb-eb0937feb0bc"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166316008263c60906": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1663160082df7db9e7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "1663160082df7db9e7-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1663160082df7db9e7-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663160082df7db9e7-0",
+        "1663160082df7db9e7-1",
+        "1663160082df7db9e7-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16631604214ba68fff": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16631614028d0c8448": {
+      "type": "image-with-text",
+      "blocks": {
+        "166316140204e29555-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WHO ARE WE?",
+            "heading_size": "h1"
+          }
+        },
+        "166316140204e29555-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Noble Trailer have been providing the highest quality trailers for rent for over 8 years. We love our customers and we’re also committed to our strong focus on customer service.<\/p><p>Established in 2013, Noble Trailer is a family-owned and operated business that strives to provide the highest-quality…<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166316140204e29555-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/collections\/frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "166316140204e29555-0",
+        "166316140204e29555-1",
+        "166316140204e29555-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tandem_enclosed_trailer_1.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "1663249011f6f18890",
+    "16631595791a56a5d3",
+    "1663160095da3a1184",
+    "166315558862199974",
+    "featured_collection",
+    "1663159439cf245384",
+    "multicolumn",
+    "166316008263c60906",
+    "16631604214ba68fff",
+    "16631614028d0c8448"
+  ]
+}
