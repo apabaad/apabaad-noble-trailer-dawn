@@ -356,64 +356,6 @@
         "padding_bottom": 36
       }
     },
-    "166316008263c60906": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1663160082df7db9e7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "1663160082df7db9e7-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "1663160082df7db9e7-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1663160082df7db9e7-0",
-        "1663160082df7db9e7-1",
-        "1663160082df7db9e7-2"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16631604214ba68fff": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16631614028d0c8448": {
       "type": "image-with-text",
       "blocks": {
@@ -457,6 +399,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1663843907a863fad3": {
+      "type": "testimonials",
+      "blocks": {
+        "1663843907eee67dd5-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Amazing, could not fault them at all! So flexible, easy going, communication was excellent, was unbeatable , The Trailer was perfect and in perfect order definitely hiring again! My father is now wanting one for 15 days hire as I could not speak more highly of these guys.”<\/p>",
+            "author": "- Renée Jade",
+            "author_info": "Melbourne, VIC"
+          }
+        },
+        "1663843907eee67dd5-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"Great car trailer with electric brakes hired to take car to a track day @ Winton. Easy pick up and drop off, Mitra was awesome to deal with, will hire again\"<\/p>",
+            "author": "- Dan Ward",
+            "author_info": "Melbourne, VIC"
+          }
+        },
+        "1663843907eee67dd5-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p> “Have hired trailers from Noble Trailer Hire before and will hire trailers from Noble Trailer Hire again! Extremely well maintained Trailer fleet that have never let me down and always sit well behind the car Mitra ALWAYS offers good old fashioned customer service with a friendly smile and that is what makes me want to continue to support his family business when I am in need of any trailers! Can not recommend enough, thanks Mitra!“<\/p>",
+            "author": "- James Young",
+            "author_info": "Melbourne, VIC"
+          }
+        }
+      },
+      "block_order": [
+        "1663843907eee67dd5-1",
+        "1663843907eee67dd5-2",
+        "1663843907eee67dd5-3"
+      ],
+      "settings": {
+        "title": "OUR CUSTOMER STORIES",
+        "round_images": true,
+        "color_background": "#f3f3f3",
+        "color_text": "#000000"
+      }
     }
   },
   "order": [
@@ -469,8 +454,7 @@
     "featured_collection",
     "1663159439cf245384",
     "multicolumn",
-    "166316008263c60906",
-    "16631604214ba68fff",
-    "16631614028d0c8448"
+    "16631614028d0c8448",
+    "1663843907a863fad3"
   ]
 }
