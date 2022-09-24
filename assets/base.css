@@ -2958,3 +2958,21 @@ details-disclosure > details {
 .accordion__content {
   padding-left: 2rem !important;
 }
+
+h2 .full-unstyled-link strong {
+  font-size: 16px;
+}
+
+.noble-contact-numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-right: 2rem;
+}
+
+@media screen and (max-width: 990px) {
+  .noble-contact-numbers {
+    display: none;
+  }
+}
