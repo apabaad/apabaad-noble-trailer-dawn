@@ -2976,3 +2976,18 @@ h2 .full-unstyled-link strong {
     display: none;
   }
 }
+
+.html-image {
+  font-size: 4rem;
+  color: #f8ba23;
+  align: center;
+}
+
+#Slider-template--16557029228776__9b9337e5-171c-4c6f-884a-1b9e7584efcc
+  .multicolumn-card__info {
+  padding: 1rem;
+}
+
+.title-wrapper-with-link .title {
+  margin: auto !important;
+}

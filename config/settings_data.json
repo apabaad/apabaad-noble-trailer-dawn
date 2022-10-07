@@ -83,8 +83,8 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "",
-    "social_facebook_link": "",
+    "social_twitter_link": "https:\/\/www.facebook.com\/NobleTrailer12",
+    "social_facebook_link": "https:\/\/www.facebook.com\/NobleTrailer12",
     "social_pinterest_link": "",
     "social_instagram_link": "",
     "social_tiktok_link": "",
@@ -154,10 +154,9 @@
           },
           "footer-2": {
             "type": "text",
-            "disabled": true,
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "NOBLE TRAILER DANDENONG",
+              "subtext": "<i class=\"fa-solid fa-location-dot\" style=\"color:#F8BA23\"><\/i>  21 Frankston-Dandenong Road,\nDandenong South,\nVIC 3175\n<br><i style=\"color:#F8BA23\" class=\"fa-solid fa-phone\"><\/i> (03) 8712 1425\n or 0431 514 438\n<br>\n<i style=\"color:#F8BA23\" class=\"fa-regular fa-envelope\"><\/i> info@nobletrailer.com.au"
             }
           },
           "215f7383-4ae6-4c55-bf3f-2da5d0ebe428": {

@@ -82,6 +82,22 @@
     "1663249011f6f18890": {
       "type": "contact-buttons",
       "blocks": {
+        "ed814795-9ef0-4fd5-a575-671d63d9fd63": {
+          "type": "first-section",
+          "settings": {
+            "view-btn-link": "\/collections\/all",
+            "view-btn": "Our Trailers",
+            "contact-icon": "<i class=\"fa-solid fa-trailer\"><\/i>"
+          }
+        },
+        "b0627af6-60bc-42df-bfbd-05153192c9c7": {
+          "type": "first-section",
+          "settings": {
+            "view-btn-link": "shopify:\/\/pages\/booking",
+            "view-btn": "Book Now",
+            "contact-icon": "<i style=\"font-size:16px;\" class=\"fa-solid fa-calendar-check\"><\/i>"
+          }
+        },
         "918acce5-70f3-4e4c-9dd6-1dd1490a3f34": {
           "type": "first-section",
           "settings": {
@@ -89,19 +105,12 @@
             "view-btn": "Call Now",
             "contact-icon": "<i style=\"font-size:16px;\" class=\"fa-solid fa-phone\"><\/i>"
           }
-        },
-        "b0627af6-60bc-42df-bfbd-05153192c9c7": {
-          "type": "first-section",
-          "settings": {
-            "view-btn-link": "shopify:\/\/products\/box-trailer",
-            "view-btn": "Book Now",
-            "contact-icon": "<i style=\"font-size:16px;\" class=\"fa-solid fa-calendar-check\"><\/i>"
-          }
         }
       },
       "block_order": [
-        "918acce5-70f3-4e4c-9dd6-1dd1490a3f34",
-        "b0627af6-60bc-42df-bfbd-05153192c9c7"
+        "ed814795-9ef0-4fd5-a575-671d63d9fd63",
+        "b0627af6-60bc-42df-bfbd-05153192c9c7",
+        "918acce5-70f3-4e4c-9dd6-1dd1490a3f34"
       ],
       "settings": {
       }
@@ -274,6 +283,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/hand.webp",
+            "html-text": "",
             "title": "Custom made high quality Tandem Trailers",
             "text": "",
             "link_label": "",
@@ -284,6 +294,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/devices.webp",
+            "html-text": "",
             "title": "Available both online or on Call",
             "text": "",
             "link_label": "",
@@ -294,6 +305,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/fast.webp",
+            "html-text": "",
             "title": "Quick Service",
             "text": "",
             "link_label": "",
@@ -304,6 +316,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/trailer.webp",
+            "html-text": "",
             "title": "Trailer hire -Long & Short Term",
             "text": "",
             "link_label": "",
@@ -314,6 +327,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/best-price.webp",
+            "html-text": "",
             "title": "Guaranteed Best Price",
             "text": "",
             "link_label": "",
@@ -324,6 +338,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/customize.webp",
+            "html-text": "",
             "title": "Regular Maintenance and Services",
             "text": "",
             "link_label": "",
@@ -377,7 +392,7 @@
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify:\/\/collections\/frontpage"
+            "button_link": "shopify:\/\/pages\/about-us"
           }
         }
       },
@@ -387,7 +402,7 @@
         "166316140204e29555-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tandem_enclosed_trailer_1.webp",
+        "image": "shopify:\/\/shop_images\/horse-statue-on-trailer.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",

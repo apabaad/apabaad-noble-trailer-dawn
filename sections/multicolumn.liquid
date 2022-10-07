@@ -85,6 +85,11 @@
                   </div>
                 </div>
               {%- endif -%}
+
+              {% if block.settings.html-text != blank %}
+                <div class="html-image" align="center">{{block.settings.html-text}}</div>
+            {% endif %}
+
               <div class="multicolumn-card__info">
                 {%- if block.settings.title != blank -%}
                   <h3>{{ block.settings.title | escape }}</h3>
@@ -341,6 +346,11 @@
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
         },
+        {
+        "type":"html",
+      "id":"html-text",
+    "label":"Image HTML"},
+
         {
           "type": "text",
           "id": "title",
